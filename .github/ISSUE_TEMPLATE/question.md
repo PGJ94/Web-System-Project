@@ -1,0 +1,10 @@
+---
+name: Question
+about: Use this to ask the team a question.
+title: ''
+labels: question
+assignees: ''
+
+---
+
+Please succinctly describe your question and include any error messages or screen shots of the problem that will help communicate the issue to your team.
